@@ -4,3 +4,6 @@
 	* Date : January 25, 2016
 		* Quick Find Algorithm Implementation for solving the Dynamic Connectivity Problem
 		* Quick Union Algorithm Implementation for solving the Dynamic Connectivity Problem
+	
+	* Date : January 26, 2016
+		* Percolation Programming Assignment Submitted without Backwash
