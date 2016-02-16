@@ -7,3 +7,7 @@
 	
 	* Date : January 26, 2016
 		* Percolation Programming Assignment Submitted without Backwash
+
+* Week - 2 : Stacks and Queues
+	* Date : February 15, 2016
+		* Deques and Randomized Queues Programming Assignment Submitted
